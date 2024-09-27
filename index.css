@@ -1,0 +1,580 @@
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+#main-logo {
+    /* border: 2px solid; */
+    height:5em;
+    width:5em;
+    position: absolute;
+    top: 7%;
+    left: 40%;
+}
+@media (max-width:500px) {
+    #nav{
+        display: block;
+    }
+    
+}
+@media (max-width:700px) and (min-width:300px) {
+    #nav{
+        display: block;
+    }
+    
+}
+
+
+#sub-nav{
+    /* border: 2px solid; */
+    height: 30px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#sub-nav1{
+    /* border: 5px solid; */
+    height: 200px;
+}
+#demo1 ol{
+    /* border: 2px solid; */
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    position: absolute;
+    left: 2%;
+    top: 10%;
+}
+#demo1 ol li{
+    height: 40px;
+    width: 60px;
+}
+#sub-nav1 svg{
+    width: 60px;
+    height: 30px;
+    fill: none;
+}
+#demo2{
+    /* border: 2px solid; */
+    position:absolute;
+    left: 24%;
+    top: 25%;
+}
+#demo2 ol{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width:50em;
+    list-style: none;
+
+}
+#demo3{
+    /* border: 2px solid; */
+    position: absolute;
+    left: 85%;
+    top: 10%;
+}
+#demo3 ol{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 200px;
+    list-style: none;
+}
+#sub-nav1 p{
+    height:5em;
+    width:5em;
+    position: absolute;
+    top: 32%;
+    left: 40%;
+    font-size: 60px;
+}
+
+#div4{
+    height: 115.64px;
+    width: 1349px;
+    padding: 32px*50px;
+
+}
+#p2{
+    text-align: center;
+}
+.nav{
+    height: 64px;
+    width: 1349px;
+}
+#left{
+    float: right;
+}
+#rigth{
+    float: left;
+}
+img{
+    width: 100%;
+    /* height: 758.81px; */
+}
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<media quaree>>>>>>>>>>>>>>>>>>>>>>? */
+
+
+@media onl screen and(min-width:768px){
+    #a{
+        width:8.833%;}
+    
+    #b{
+        width:16.66%}
+        #c{
+            width:25%}
+
+        #d{
+            width: 33%;
+        }
+
+    }
+
+    @media onl screen and(mxn-width:1349px){
+        #a{
+            width:85.833%;}
+        
+        #b{
+            width:96.66%}
+            #c{
+                width:75%}
+    
+            #d{
+                width: 83%;
+            }
+    
+        }
+
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<section01 number  for saree >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>. */
+
+#A{
+    height: 698.44px;
+    width: 1349px;
+}
+#a{
+    height: 39.88px;
+    width: 1349px;
+    /* background-color: red; */
+}
+#S1{
+    height: 600.44PX;
+    width:1349PX;
+    /* border: 2px solid yellow; */
+    display: flex
+
+}
+#ss1{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+#ss2{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+#ss3{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+#ss4{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+
+@media  only screen(max-width:1349*500px) and(main-width:132*284px) {
+    nav{
+        back-ground:red;
+    }
+    
+}
+
+
+/* section2 for kurta>>>>>>>>>>>>> */
+
+
+#B{
+    height: 698.44px;
+    width: 1349px;
+}
+#b{
+    height: 39.88px;
+    width: 1349px;
+    /* background-color: red; */
+}
+#S1{
+    height: 600.44PX;
+    width:1349PX;
+    /* border: 2px solid yellow; */
+    display: flex
+
+}
+#ss1{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+#ss2{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+#ss3{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+#ss4{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+
+/* lenhnga>>>>>>>>>>>>>>>>>>>>> */
+
+#C{
+    height: 698.44px;
+    width: 1349px;
+}
+#c{
+    height: 39.88px;
+    width: 1349px;
+    /* background-color: red; */
+    text-align: center;
+    text-align: inherit;
+}
+#shop{
+    text-align: center;
+    
+}
+#S1{
+    height: 600.44PX;
+    width:1349PX;
+    /* border: 2px solid yellow; */
+    display: flex
+
+}
+#ss1{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+#ss2{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+#ss3{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+#ss4{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+
+/* mix>>>>>>>>>>>>>>>>>>>>> */
+
+
+#D{
+    height: 698.44px;
+    width: 1349px;
+}
+#d{
+    height: 39.88px;
+    width: 1349px;
+    background-color:white;
+}
+#S14{
+    height: 600.44PX;
+    width:1349PX;
+    /* border: 2px solid yellow; */
+    display: flex
+
+}
+#ss14{
+    height:526.58px;
+    width: 351.72px;
+    /* border-radius: 5px; */
+    /* margin: 20px; */
+
+}
+#ss24{
+    height:526.58px;
+    width: 351.72px;
+    /* border-radius: 5px; */
+    /* margin: 20px; */
+
+}
+#ss34{
+    height:300.58px;
+    /width: 351.72px;
+    border-radius: 5px;
+    /* margin: 20px; */
+
+}
+#ss44{
+    height:526.58px;
+    width: 351.72px;
+    /* border-radius: 5px; */
+    /* margin: 20px; */
+
+}
+
+#infuluser{
+    height: 39.88px;
+    width: 1349px;
+    background-color: white
+    text-align: center;
+    color:black;
+    display: block;
+}
+      
+      
+      
+#influnserbal{
+    text-align: center;
+    display: block;
+}
+
+
+
+
+#sareeA{
+    height:698.44px ;
+    width:1349px ;
+    
+}
+h2{
+    float: left;
+    
+}
+button{
+    float: right;
+}
+#sec02{
+    display: flex;
+}
+#beforesaree{
+    height: 39.88px;
+    width: 1349px;
+    background-color: red;
+    display: inline-flex
+
+}
+
+h2{
+    float: left;
+}
+button{
+    float: right;
+}
+
+#section01{
+    display: flex;
+    height:698.44px;
+    width: 1349px;
+    background-color: aqua;
+
+}
+#head1{
+    height: 39.88px;
+    width: 1349px;
+    padding: 0px 50px;
+    margin: 0px 0px 32px;
+
+}
+h2{
+    float: left;
+}
+button{
+    float: right;
+}
+#saree1{
+    height:526.58px;
+    width: 351.72px;
+    border: 2px solid red;
+    margin: 20px;
+    border-radius: 5px;
+    /* padding: 10px 10px 10px 10px; */
+}
+#saree2{
+    height:526.58px;
+    width: 351.72px;
+    border: 2px yellow;
+border-radius: 5px;
+margin: 20px;
+}
+#saree3{
+    height:526.58px;
+    width: 351.72px;
+    border: 2px solid gray;
+  margin: 20px;
+  border-radius: 5px;
+}
+#saree4{
+    height:526.58px;
+    width: 351.72px;
+    border: 2px solid aqua;
+  margin: 20px;
+  border-radius: 5px;
+}
+#saree5{
+    height:526.58px;
+    width: 351.72px;
+    border: 2px solid brown;
+    margin: 20px;
+    border-radius: 5px;
+}
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<secion02 for kurta>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+
+#section02{
+    display: flex;
+    height: 662.44px;
+    width: 1349px;
+    background-color: yellow;
+
+}
+#saree1{
+    height:526.58px;
+    width: 351.72px;
+}
+#saree2{
+    height:526.58px;
+    width: 351.72px;
+}
+#saree3{
+    height:526.58px;
+    width: 351.72px;
+}
+#saree4{
+    height:526.58px;
+    width: 351.72px;
+}
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<section03 for lenga>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+#section03{
+    display: flex;
+    height:491.38px ;
+    width: 1349px;
+    background-color: blue;
+
+}
+#saree1{
+    height:526.58px;
+    width: 351.72px;
+}
+#saree2{
+    height:526.58px;
+    width: 351.72px;
+}
+#saree3{
+    height:526.58px;
+    width: 351.72px;
+}
+#saree4{
+    height:526.58px;
+    width: 351.72px;
+}
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>....section04 for mix>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+#section04{
+    display: flex;
+    height: 556.81px;
+    width: 1349px;
+
+    background-color: blueviolet;
+}
+#saree1{
+    height:526.58px;
+    width: 351.72px;
+}
+#saree2{
+    height:526.58px;
+    width: 351.72px;
+}
+#saree3{
+    height:526.58px;
+    width: 351.72px;
+}
+#saree4{
+    height:526.58px;
+    width: 351.72px;
+}
+
+/* <<<<<<<<<<<<<<<<<<<<<<footer>>>>>>>>>>>>>>>>>>>>> */
+hr{
+    height: 2px solid black;
+    width: 1349px;
+}
+footer{
+    height: 484.39px;
+    width: 1349px;
+    
+    padding: 0px 50px;
+    display: flex;
+}
+#footer1
+{
+    height: 452.39px;
+    width: 320.025px;
+    margin: 0px 0px 32px;
+    padding: 0px 16px;
+}
+#footer2
+{
+    height: 452.39px;
+    width: 320.025px;
+    margin: 0px 0px 32px;
+    padding: 0px 16px;
+}
+#footer3
+{
+    height: 452.39px;
+    width: 320.025px;
+    margin: 0px 0px 32px;
+    padding: 0px 16px;
+}
+#footer4
+{
+    height: 452.39px;
+    width: 320.025px;
+    margin: 0px 0px 32px;
+    padding: 0px 16px;
+}
+
+
